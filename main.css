@@ -1,0 +1,19 @@
+h1 {
+  font-family: "Julius Sans One"; 
+  text-align: center;
+  margin: 0 auto;
+  padding: 70px;
+  margin-top: 10px; 
+  font-size: 2.5rem;
+  line-height: 1.5;
+  color: darkslategray; 
+}
+
+p {
+  text-align: center;
+}
+
+body {
+  background: url(assets/freedom.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
